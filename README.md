@@ -78,10 +78,12 @@ To run the code:
 node  .\basic_node_server.js
 ```
 
-Navigate to localhost:3000 to see your fireworks.
+Navigate to **localhost:3000** to see your fireworks.
 
 Play your music to fire off fireworks with the beat of the song.
 
 ## Node-RED dashboard 
+
+[Node-RED Flow](https://flows.nodered.org/flow/8483e33bd3e57c775813bca4d0b57057)
 
 [Current Song being Played - Haven't Tested](https://flows.nodered.org/flow/a559bbb4e17e99392c9a4757d442f308)
