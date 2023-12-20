@@ -82,4 +82,6 @@ Navigate to localhost:3000 to see your fireworks.
 
 Play your music to fire off fireworks with the beat of the song.
 
-## Node-RED dashboard for stats
+## Node-RED dashboard 
+
+[Current Song being Played - Haven't Tested](https://flows.nodered.org/flow/a559bbb4e17e99392c9a4757d442f308)
