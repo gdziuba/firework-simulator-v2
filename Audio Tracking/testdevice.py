@@ -1,12 +1,12 @@
 import pyaudio
 
-# Set the device ID (replace with your microphone's device ID)
-input_device_index = 1  # Replace with the ID of your Yeti microphone
+# Set the device ID to the ID of the microphone you want to use
+input_device_index = 2  # Using the "Microphone (Mic in at front panel (black))"
 
 # Initialize PyAudio
 p = pyaudio.PyAudio()
 
-# Open the input stream
+# Open the input stream with the selected device
 input_stream = p.open(format=pyaudio.paInt16,
                       channels=1,
                       rate=44100,

@@ -87,3 +87,5 @@ Play your music to fire off fireworks with the beat of the song.
 [Node-RED Flow](https://flows.nodered.org/flow/8483e33bd3e57c775813bca4d0b57057)
 
 [Current Song being Played - Haven't Tested](https://flows.nodered.org/flow/a559bbb4e17e99392c9a4757d442f308)
+
+**Change Timezone in Function 2**
